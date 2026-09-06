@@ -75,7 +75,7 @@ automate configuration with Ansible, and deploy containerized workloads on Docke
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/shubham-magar-](https://www.linkedin.com/in/shubham-magar-/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blih9qmCBRyWIaCf5%2BCwkhw%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-magar-)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhammagar199@gmail.com)
 
 </div>
